@@ -1,0 +1,17 @@
+a man in a black robe holding a scythe
+
+in json
+{
+  "apim-request-id": "ef16fe8d-64d0-41f5-8460-cf6f8b1ed698",
+  "content-length": "167",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a man in a black robe holding a scythe",
+    "confidence": 0.7886368036270142
+  },
+  "metadata": {
+    "width": 1024,
+    "height": 1536
+  }
+}

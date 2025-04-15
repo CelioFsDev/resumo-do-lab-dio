@@ -1,0 +1,18 @@
+a black horse running on a field
+
+in json
+
+{
+  "apim-request-id": "c3ba359a-5bb6-40a6-9f91-2fefd35cdb40",
+  "content-length": "158",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a black horse running on a field",
+    "confidence": 0.737525463104248
+  },
+  "metadata": {
+    "width": 303,
+    "height": 199
+  }
+}

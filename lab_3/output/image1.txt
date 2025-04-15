@@ -1,0 +1,17 @@
+hot air balloons in the sky
+
+in json 
+{
+  "apim-request-id": "1e50c918-4efc-4e20-a3e8-786826d3d309",
+  "content-length": "154",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "hot air balloons in the sky",
+    "confidence": 0.8540719151496887
+  },
+  "metadata": {
+    "width": 601,
+    "height": 371
+  }
+}
